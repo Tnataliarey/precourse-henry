@@ -1,2 +1,1 @@
-# precourse-henry
-repositorio de prueba modulo 2 de henry
+este proyecto es una prueba 
